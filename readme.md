@@ -12,4 +12,4 @@
 - Eliminar snapshots de EBS
 - Eliminar la instancia de RDS
 - Eliminar las metricas de CloudWatch
-- Eliminar bucket S3 creado para fuardar la AMI
+- Eliminar bucket S3 creado para guardar la AMI
