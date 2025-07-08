@@ -5,7 +5,7 @@
 
 - Eliminar el autoscaling group
 - Eliminar el Application Load Balancer
-- Eliminar el targert group
+- Eliminar el target group
 - Eliminar template
 - Eliminar la AMI
 - Eliminar las instancias EC2
